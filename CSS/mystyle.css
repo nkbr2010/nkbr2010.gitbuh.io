@@ -1,0 +1,44 @@
+
+    html,
+    body,
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+      font-family: "Roboto", sans-serif;
+    }
+    body {
+      padding-bottom: 1rem;
+    }
+
+    a {
+      text-decoration: none;
+    }
+
+    a:hover {
+      color:black;
+    }
+    
+    .w3-card, .w3-card-4 {
+      border-radius: .75rem;
+    }
+
+    img{
+      border-top-left-radius: .75rem;
+      border-top-right-radius: .75rem;
+    }
+
+    .accentcolor {
+      color: #4CB0D0;
+    }
+
+    .accentbg{
+      background-color: #4CB0D0;
+      color: white;
+    }
+
+    h4{
+      font-weight:bold;
+    }
